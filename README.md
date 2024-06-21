@@ -1,6 +1,6 @@
 # Kochi Port Visit Report
 
-![Kochi Port Image](image_url_here)
+![Kochi Port Image](https://github.com/SajalVats/Photo/blob/main/Kochi%20Port%20Image.jpg)
 
 ## Introduction
 This report covers a detailed account of the visit to Kochi Port by Sajal Vats from IIFT Delhi, batch 2022-2024. The visit spanned three days and provided valuable insights into the operations, management, and strategic importance of Kochi Port.
